@@ -1,2 +1,2 @@
-Your Comments are valuable 
-Thanks in advance
+Your Comments are appreciated
+Thanks for visiting!!
