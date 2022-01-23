@@ -556,6 +556,8 @@ section {
   opacity: 0;
 }
 
+
+
 .portfolio .portfolio-wrap .portfolio-links {
   opacity: 1;
   left: 0;
@@ -598,6 +600,22 @@ section {
   bottom: 0;
 }
 
+.portfolio-tap {
+  position: relative;
+  text-align: center;
+  color: #dbe0e0;
+  );
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
